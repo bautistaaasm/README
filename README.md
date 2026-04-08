@@ -1,3 +1,4 @@
 # Lenguaje de Programación I
-##AUTOR
+AUTOR
+
 #Abigail Amira Bautista Aguirre
